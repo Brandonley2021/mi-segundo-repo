@@ -1,2 +1,2 @@
-# mi-segundo-repo
-Mi segundo repositorio en GitHub
+# Mi Primer README
+Mi segundo repositorio en GitHub.
