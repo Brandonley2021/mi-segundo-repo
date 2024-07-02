@@ -5,4 +5,8 @@ Mi segundo repositorio en GitHub.
 + Tacos con *huevo*
 + Tacos de -kkk-!
 
-$a = b + c$
+$$
+\begin{align}
+a = b + c
+\end{align}
+$$
