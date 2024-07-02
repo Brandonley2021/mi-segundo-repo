@@ -60,12 +60,12 @@ $$
 
 9. Determinar la carga de calor Q, usando los datos del lado de la coraza o del lado de los tubos.
 
-    a. Asumir un valor el coeficiente total de diseño (UD).
-    b. Calcular el area total (AT):
+a. Asumir un valor el coeficiente total de diseño (UD).
+b. Calcular el area total (AT):
 
-    $$
-    AT = \frac{Q}{[UD(DTML)_{c}]} \tag{7}
-    $$
+$$
+AT = \frac{Q}{[UD(DTML)_{c}]} \tag{7}
+$$
 
 10. Elejir los siguientes parametros:
 
@@ -82,9 +82,9 @@ $$
 
 11. Calcular el número de tubos del intercambiador de calor, (NT):
 
-    $$
-    \text{Numero de tubos} = \frac{A}{(\pi(\frac{do}{12})L)} \tag{8}
-    $$
+$$
+\text{Numero de tubos} = \frac{A}{(\pi(\frac{do}{12})L)} \tag{8}
+$$
 
 Se pude modificar la longitud a la longitud a la longitud efectiva, usando L-0.5, en lugar de L, considerando que en promedio se tiene 0.5 pies por los espesores de los espejos, en los dos extremos del intercambiador del calor.
 
