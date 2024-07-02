@@ -8,5 +8,7 @@ Mi segundo repositorio en GitHub.
 $$
 \begin{align}
 a = b + c \label{eq1} \tag{1}
+\
+d = 2 + \Phi
 \end{align}
 $$
