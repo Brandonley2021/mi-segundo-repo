@@ -7,4 +7,6 @@ Mi segundo repositorio en GitHub.
 
 $$
 a = b + c \tag{1}
+\
+b = 0 \tag{2}
 $$
