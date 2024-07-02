@@ -1,16 +1,22 @@
-# Mi Primer README
-Mi segundo repositorio en GitHub.
+# Método de Kern
 
-+ Tacos con sal
-+ Tacos con *huevo*
-+ Tacos de -kkk-!
+## Formulas
 
-$$
-a = b + c \tag{1}
-$$
+### **Calor transferido**
 
-Entonces:
+Ecuación de diseño:
 
 $$
-b = 2 + t \tag{2}
+Q = U_{0} A_{0} (\Delta T_{lm})F \tag{1}
+$$
+
+Del balance de energía:
+
+$$
+Q_{perdido} = Q_{ganado} \tag{2}
+\end{equation}
+$$
+
+$$
+Q = MC_{p}(\Delta T) \tag{3}
 $$
