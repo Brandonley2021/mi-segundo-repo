@@ -7,6 +7,6 @@ Mi segundo repositorio en GitHub.
 
 $$
 \begin{align}
-a = b + c
+a = b + c \label{eq1} \tag{1}
 \end{align}
 $$
