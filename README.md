@@ -14,7 +14,6 @@ Del balance de energía:
 
 $$
 Q_{perdido} = Q_{ganado} \tag{2}
-\end{equation}
 $$
 
 $$
