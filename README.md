@@ -6,7 +6,5 @@ Mi segundo repositorio en GitHub.
 + Tacos de -kkk-!
 
 $$
-\begin{align}
-a = b + c \tag{*}
-\end{align}
+a = b + c \tag{1}
 $$
