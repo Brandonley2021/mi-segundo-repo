@@ -177,5 +177,5 @@ $$
 54. Calcular el porciento de sobrediseño
 
 $$
-SD = (\frac{A}{A0} - 1) \cdot 100
+SD = (\frac{A}{A0} - 1) \times 10^{-13}
 $$
