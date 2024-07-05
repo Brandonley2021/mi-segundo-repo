@@ -1,7 +1,7 @@
 # Metodo de Bell Delawere
 
 1. Determinar las temperaturas de entrada y salida del lado de la coraza y de los tubos.
-
+![imagen](./imagen/1643749479_Julianne.Stingray.full.2354123.png)
 2. Calcular la diferencia de temperaturas mediaa logaritmica (DMTL):
 
 $$
